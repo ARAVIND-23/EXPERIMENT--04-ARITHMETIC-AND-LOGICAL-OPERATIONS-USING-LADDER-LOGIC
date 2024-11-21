@@ -95,7 +95,7 @@ Arithmetic Operations: Verify that the output shows correct results for addition
 ## OR :
 ![Screenshot 2024-11-21 182833](https://github.com/user-attachments/assets/0dfb7ea7-af54-4aa3-93f1-7a76ce82878c)
 
-## NOR :
+## NOT :
 ![Screenshot 2024-11-21 182841](https://github.com/user-attachments/assets/91597ef6-5fab-4145-a22d-b91ebc5d9b93)
 
 ## Results:
